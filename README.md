@@ -5,12 +5,16 @@ This project involves performing sentiment analysis on a dataset of women's clot
 - Handling missing values
 - Text normalization and tokenization
 - Lemmatization and removal of stopwords
+
 **Exploratory Data Analysis (EDA):**
-  - Visualization of review distributions and sentiment analysis
+- Visualization of review distributions and sentiment analysis
+
 **Modeling:**
-  - Feature extraction using TF-IDF
-  - Machine learning model: Naive Bayes
+- Feature extraction using TF-IDF
+- Machine learning model: Naive Bayes
+
 **Evaluation:**
-  - Metrics: Accuracy, most informative features
+- Metrics: Accuracy, most informative features
+
 **Results:**
-  - Accuracy: 91.9%
+- Accuracy: 91.9%
